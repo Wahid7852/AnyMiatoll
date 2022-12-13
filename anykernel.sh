@@ -10,8 +10,14 @@ do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=1
-device.name1=begonia
-device.name2=begoniain
+device.name1=curtana
+device.name2=curtanain
+device.name3=joyeuse
+device.name4=joyeusein
+device.name5=excalibur
+device.name6=excaliburin
+device.name7=gram
+device.name8=gramin
 supported.versions=
 supported.patchlevels=
 '; } # end properties
